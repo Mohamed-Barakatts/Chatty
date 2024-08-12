@@ -29,9 +29,9 @@
     {
       "tag": "name",
       "patterns": [
-        "What's your name?", "What should I call you?", "Do you have a name?", "Who am I talking to?"
+        "What is your name?", "What's your name?", "What should I call you?", "Do you have a name?", "Who am I talking to?"
       ],
-      "responses": ["You can call me Chatty.", "I'm Chatty, a simple AI chatbot.", "I'm Chatty, at your service."],
+      "responses": ["You can call me Chatty.", "My name is Chatty, a smart AI chatbot.", "I'm Chatty, at your service."],
       "context_set": ""
     },
     {
